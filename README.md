@@ -73,59 +73,73 @@ The two Datasets (Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xls
 8.	Minimum Salary $28.13K
 
 ### Dashboard Visuals
+![PALMORA PROJECT DASHBOARD ](https://github.com/user-attachments/assets/7126ca76-973a-4e2b-9919-b7c565e4c68e)
 
 ## INSIGHTS AND RECOMMENDATIONS
 
 ### Gender Distribution in the organization
-The Male Geder occupied 51.32% of the total employees in the organization over the Female with 48.68%, exclusive of the Unspecified Gender, leaving a gender gap of 2.64% in the entire organization.
+The Male Gender occupied 49.15% of the total employees in the organization over the Female with 46.62%. While the Unspecified (Others) Gender having 4.23%. Between the Male and the Female Gender, there is a gender gap difference of 2.53% of Male Employees over the Female Employees Company-wide.
 
 ### Gender Distribution Across Regions
 
-#### Kaduna has 182 (20.09%) Male and 165 (18.21%) Female, giving a (1.88%) rise of Male Gender over the Female.
+#### Kaduna has 182 (49.86%) Male and 165 (45.21%) Female, giving a (4.65%) rise of Male Gender over the Female. While the Unspecified Gender (Others) have 18 (4.93%)
 
-#### Abuja has 159 (17.55%) Male and 158 (17.44%) Female, giving a (0.11%) rise of Male Gender over the Female Gender.
+#### Abuja has 159 (48.04%) Male and 158 (47.73%) Female, giving a (0.31%) rise of Male Gender over the Female Gender. while the Unspecified Gender (Others) have 14 (4.23%)
 
-#### Lagos has 124 (13.69%) Male and 118 (13.02%) Female, giving a (0.67%) rise of Male Gender over the Female.
+#### Lagos has 124 (49.6%) Male and 118 (47.2%) Female, giving a (2.4%) rise of Male Gender over the Female. While the Unspecified Gender (Others) have 8 (3.2%)
 
 ### Recommendation 
-There’s not much Gender distribution difference across the Region and the organization at large. However, to balance the little gap, more Female can be recruited into Kaduna Region.
+There’s not much Gender distribution difference across the Region and the organization at large. However, to balance the little gap, more Female should be recruited into **Kaduna** and **Lagos Region**.
 
 ### Ratings based on Gender
-The Male Gender has the Poorest performance Ratings. This could be due to family issues and other challenging factors associated with men.
+The Male Gender has the Poorest Ratings. This could be due to family ties and other challenging factors associated with men.
 
 ### Recommendation 
 More attention should be given to the Male Gender in order to know the caused of their poor performance.
 
 ### Company Salary Structure Analysis.
-There is a Pay Gap difference among genders, with the Female Geder being under paid across Departments and Region.
+There is a Pay Gap difference of $0.04 Male Gender over the Female Gender. with the Female Gender being under paid across Departments and Region.
 
 ### Recommendation
-Management should review the company salary structure in order to bridge the payment gap.
+Management should review the company salary structure in order to bridge the pay gap.
 
 ### Payment of $90,000 Minimum Salary to Employees
-From the analysis, it is discovered that the company only pay their employee a minimum salary of $28, 130 which falls short of the Industrial Standard Regulation of $90,000 New Minimum salary payment by 104.75%.
+From the analysis, it was discovered that most of the Employees are paid below the new stipilated Minimum salary of $90,000, which falls short of the Industrial Standard Regulation as regards to the New Minimum salary payment.
 
 ### **Recommendation**
 The management should work and ensure compliance with the new Industrial Regulation by effectively implementing the Nem Minimum Salary payment.
 
-### Employees Payment Distribution by a Group Band
+### Employees Payment Distribution by Group Band
    a)	$10,000 - $20,000: 	None
    
-   b)	$20,000 - $30,000: 	    26 Employees 
+   b)	$20,000 - $30,000: 	    11 Female and 15 Male (26 Employees)
   
-   c)	$30,000 - $40,000: 	    103 Employees
+   c)	$30,000 - $40,000: 	    60 Female and 41 Male (101 Employees)
   
-   d)	$40,000 - $50,000: 	    105 Employees
+   d)	$40,000 - $50,000: 	    55 Female and 48 Male (103 Employees)
   
-   e)	$50,000 - $60,000: 	    96 Employees
+   e)	$50,000 - $60,000: 	    36 Female and 53 Male (89 Employees)
   
-   f)	$60, 000 - $70,000: 	  99 Employees
+   f)	$60, 000 - $70,000: 	    40 Female and 54 Male (84 Employees)
   
-   g)	$70,000 - $80,000: 	    117 Employees
+   g)	$70,000 - $80,000: 	    56 Female and 54 Male (110 Employees)
   
-   h)	$80,000 - $90,000: 	    108 Employees
+   h)	$80,000 - $90,000: 	    57 Female and 48 Male (105 Employees)
   
-   i)	$90,000 - $100,000: 	  90 Employees
+   i)	$90,000 - $100,000: 	    None
    
-   j)	$190,000+  		          202 Employees
+   j)	$190,000+  		    126 Female and 152 Male (278 Employees)
+
+   The above analysis on Group Band Payment is exclusive of the Unspecified Gender, Since of focus is on Gender Equality.
+   
+### The total amount to be paid to individual employees as Bonuses is **$2,199,279.30**. However, the amount allotted to individual employees can be seen on the Dashboard visuals.
+
+### The total amount to be paid to individual employees as Bonus and Salary is **$71.92**.
+
+### Total amount to be paid out per region and company-wide
+
+##### KADUNA   $27.48M
+##### ABUJA    $24.92M
+##### LAGOS    $19.53M
+
 
