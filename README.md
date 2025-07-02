@@ -142,4 +142,13 @@ The management should work and ensure compliance with the new Industrial Regulat
 ##### ABUJA    $24.92M
 ##### LAGOS    $19.53M
 
+### FOR THE COMPLETE PROJECT WORK, CLICK ON THE LINK BELOW
+[https://drive.google.com/file/d/1eic6EvJ93SDhGQdWKrM3knXfFrc9g4LF/view?usp=drive_link]
+
+### CONTACT ME
+To reach out or connect with me, you can use the following channels:
+
+LinkedIn [https://linkedin.com/in/valentineebi]
+
+Email [ebivalentine6@gmail.com]
 
