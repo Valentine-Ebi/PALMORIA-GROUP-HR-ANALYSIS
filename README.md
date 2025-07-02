@@ -77,10 +77,10 @@ The two Datasets (Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xls
 
 ## INSIGHTS AND RECOMMENDATIONS
 
-### Gender Distribution in the organization
+### 1.0        Gender Distribution in the organization
 The Male Gender occupied 49.15% of the total employees in the organization over the Female with 46.62%. While the Unspecified (Others) Gender having 4.23%. Between the Male and the Female Gender, there is a gender gap difference of 2.53% of Male Employees over the Female Employees Company-wide.
 
-### Gender Distribution Across Regions
+### 1.0        Gender Distribution Across Regions
 
 #### Kaduna has 182 (49.86%) Male and 165 (45.21%) Female, giving a (4.65%) rise of Male Gender over the Female. While the Unspecified Gender (Others) have 18 (4.93%)
 
@@ -91,25 +91,25 @@ The Male Gender occupied 49.15% of the total employees in the organization over 
 ### Recommendation 
 There’s not much Gender distribution difference across the Region and the organization at large. However, to balance the little gap, more Female should be recruited into **Kaduna** and **Lagos Region**.
 
-### Ratings based on Gender
+### 2.0        Ratings based on Gender
 The Male Gender has the Poorest Ratings. This could be due to family ties and other challenging factors associated with men.
 
 ### Recommendation 
 More attention should be given to the Male Gender in order to know the caused of their poor performance.
 
-### Company Salary Structure Analysis.
+### 3.0        Company Salary Structure Analysis.
 There is a Pay Gap difference of $0.04 Male Gender over the Female Gender. with the Female Gender being under paid across Departments and Region.
 
 ### Recommendation
 Management should review the company salary structure in order to bridge the pay gap.
 
-### Payment of $90,000 Minimum Salary to Employees
+### 4.0        Payment of $90,000 Minimum Salary to Employees
 From the analysis, it was discovered that most of the Employees are paid below the new stipilated Minimum salary of $90,000, which falls short of the Industrial Standard Regulation as regards to the New Minimum salary payment.
 
 ### **Recommendation**
 The management should work and ensure compliance with the new Industrial Regulation by effectively implementing the Nem Minimum Salary payment.
 
-### Employees Payment Distribution by Group Band
+### 4.1        Employees Payment Distribution by Group Band
    a)	$10,000 - $20,000: 	None
    
    b)	$20,000 - $30,000: 	    11 Female and 15 Male (26 Employees)
@@ -132,11 +132,11 @@ The management should work and ensure compliance with the new Industrial Regulat
 
    The above analysis on Group Band Payment is exclusive of the Unspecified Gender, Since of focus is on Gender Equality.
    
-### The total amount to be paid to individual employees as Bonuses is **$2,199,279.30**. However, the amount allotted to individual employees can be seen on the Dashboard visuals.
+### 5.0        The total amount to be paid to individual employees as Bonuses is **$2,199,279.30**. However, the amount allotted to individual employees can be seen on the Dashboard                    visuals.
 
-### The total amount to be paid to individual employees as Bonus and Salary is **$71.92**.
+### 5.1        The total amount to be paid to individual employees as Bonus and Salary is **$71.92**.
 
-### Total amount to be paid out per region and company-wide
+### 5.2        Total amount to be paid out per region and company-wide
 
 ##### KADUNA   $27.48M
 ##### ABUJA    $24.92M
