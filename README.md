@@ -1,47 +1,57 @@
-# CASE STUDY : PALMORA GROUP HR ANALYSIS 
-The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards, revealing other issues like the gender pay gap, amongst other possible issues. The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify key areas within the business that could give rise to issues and address them immediately. Mr Shofoluwe decided to recruit you as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention. “Now, the future of gender equality in Palmoria lies in your hands” – the exact words of Mr Shofoluwe before he handed the data to you.
+# PALMORA GROUP HR ANALYSIS 
+## PROJECT OVERVIEW 
+Palmoria Group, a manufacturing company based in Nigeria, has recently come under scrutiny over concerns of gender inequality across its regional operations. The situation escalated following a media report labelling the organization as “Palmoria, the Manufacturing Patriarchy.” In response, the company’s leadership mandated a comprehensive review of its human resources data to uncover potential biases and address them proactively.
 
-## CASE SCENARIO 
-•	Analyse the company data and generate insights that the Palmoria management team would need to address 
+As an HR Analytics Consultant, I was engaged to perform a deep-dive analysis of Palmoria’s employee data. The focus was to uncover insights related to gender distribution, performance ratings, pay disparities, and bonus allocations, especially through the lens of gender equity and regulatory compliance.
+This project uses Power BI to visualize and analyze key HR metrics to support data-driven decision-making at Palmoria Group.
 
-•	Your analysis should be visualised using appropriate charts 
+## Project Objectives
+1.	Data Cleaning and Preparation:
 
-•	Your focus should be on gender-related issues within the organization and its regions 
+  	 a).	Handle missing values in gender, department, and salary.
 
-•	The insights required are based on your discretion. However, Mr Gamma, as an insider, has offered to give you pointers on areas you need to pay attention to.
+  	 b).	Exclude non-active employees and undefined departments.
 
-## Required: 
-•	Generally, there are two genders in the organization. However, some employees refused to disclose their gender. You would need to assign a generic gender status to these employees 
+  	 c).	Standardize bonus rules for analysis.
 
-•	Some employees are without a salary because they are no longer with the company. You will need to take those employees out 
+3.	Gender-Based Insights:
 
-•	Lastly, some departments are indicated as “NULL”. These departments would also need to be taken out.
+  	a).	Analyze gender distribution by region and department.
 
-## Pointers from Mr Gamma 
-1.	What is the gender distribution in the organization? Distil to regions and departments 
+  	b).	Identify any gender bias in employee performance ratings.
 
-2.	Show insights on ratings based on gender 
+  	c).	Visualize representation gaps in the workforce.
 
-3.	Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management 
+5.	Salary & Pay Gap Analysis:
 
-4.	A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+  	 a).	Investigate the existence and extent of a gender pay gap.
 
-       •	Does Palmoria meet this requirement? 
+  	 b).	Identify departments or regions where disparities are most pronounced.
 
-       •	Show the pay distribution of employees grouped by a band of $10,000. For example: 
+7.	Compliance Evaluation:
 
-       •	How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
+  	 a).	Evaluate adherence to a regulatory minimum salary requirement of $90,000.
 
-       •	Also visualize this by regions
+  	 b).	Visualize salary band distribution across the organization.
 
-## Case Questions 
-5.	Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. He handed you another data set that contains rules for making bonus payments and asked you to: 
+9.	Bonus Allocation & Impact:
 
-       •	Calculate the amount to be paid as a bonus to individual employees 
+  	a).	Apply department-based bonus rules to employee ratings.
 
-       •	Calculate the total amount to be paid to individual employees (salary inclusive of bonus) 
+  	b).	Calculate individual and regional bonus payouts.
 
-       •	Total amount to be paid out per region and company-wide
+  	c).	Evaluate the financial impact of bonuses on total compensation.
+
+11.	Dashboard Design:
+
+   	 a).	Develop an interactive Power BI dashboard with KPIs, charts, and tables.
+
+   	 b).	Enable management to explore insights by gender, department, and location.
+
+
+
+
+
 
 ## Data Source
 The data for this Analysis was gotten from Digital SkillUp Africa (DSA) Learning Management System (LMS) as part of my final project.
@@ -141,6 +151,12 @@ The management should work and ensure compliance with the new Industrial Regulat
 ##### KADUNA   $27.48M
 ##### ABUJA    $24.92M
 ##### LAGOS    $19.53M
+
+## Conclusion
+The HR analytics dashboard created for Palmoria Group equips the leadership team with actionable insights to address gender-related concerns proactively. Through this project, critical issues such as unequal gender representation, pay disparity, and rating biases have been made transparent using visual storytelling.
+
+Beyond internal reform, the project supports Palmoria’s ambitions for global expansion by aligning its HR practices with inclusive, equitable, and compliant standards. With the right strategic actions, Palmoria can move from controversy to becoming a model for progressive HR management in the manufacturing sector.
+
 
 ### FOR THE COMPLETE PROJECT WORK, CLICK ON THE LINK BELOW
 [https://drive.google.com/file/d/1eic6EvJ93SDhGQdWKrM3knXfFrc9g4LF/view?usp=drive_link]
