@@ -49,10 +49,6 @@ This project uses Power BI to visualize and analyze key HR metrics to support da
    	 b).	Enable management to explore insights by gender, department, and location.
 
 
-
-
-
-
 ## Data Source
 The data for this Analysis was gotten from Digital SkillUp Africa (DSA) Learning Management System (LMS) as part of my final project.
 
@@ -62,7 +58,7 @@ The tool for this is Power BI. You can download it via this link (https://www.mi
 ## ETL Process
 As stated above, the Data was extracted from DSA LMS and imported to Power BI for Transformation and Analysis.
 In transforming the Data, NULL Values were removed from Salary and Department Columns, while Empty or blank spaces in the Gender column were replaced with ‘Others’ for unspecified Gender. To Achieved this, firstly I used TRIM to removed leading and trailing spaces from text strings, CLEAN to removed non-printable characters and lastly, the FIND and REPLACE to look for extra spaces and replacing with none. After which I then Replaced the empty Rows with ‘Others.’
-The two Datasets (Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xlsx) were merged together after Transforming and Unpivoting the ‘Palmoria Group Bonus Rules.xlsx’ in order to have one single Table. After merging the Tables as one, one conditional column (Salary Band) and two custom columns (Bonus Amount and Salary + Bonus) were created.
+The two Datasets (Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xlsx) were merged together after Transforming and Unpivoting the ‘Palmoria Group Bonus Rules.xlsx’ in order to have one single Table. After merging the Tables as one, one conditional column (Salary Band) and two custom columns (Bonus Amount and Salary + Bonus) were created. Measures were also created to calculate Gender Pay Gap. etc
 
 ## INSIGHTS BASED ON THE ANALYSIS
 ### KPIs
@@ -83,7 +79,10 @@ The two Datasets (Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xls
 8.	Minimum Salary $28.13K
 
 ### Dashboard Visuals
-![PALMORA PROJECT DASHBOARD ](https://github.com/user-attachments/assets/7126ca76-973a-4e2b-9919-b7c565e4c68e)
+
+![Dashboard V](https://github.com/user-attachments/assets/c2c8f4b8-ebe4-45a5-a0df-0de1e248ea21)
+
+![Gender Gap by Region and Department](https://github.com/user-attachments/assets/e4293ff5-76a2-4bca-9ca4-b4e0d2469d86)
 
 ## INSIGHTS AND RECOMMENDATIONS
 
@@ -108,10 +107,19 @@ The Male Gender has the Poorest Ratings. This could be due to family ties and ot
 More attention should be given to the Male Gender in order to know the caused of their poor performance.
 
 ### 3.0        Company Salary Structure Analysis.
-There is a Pay Gap difference of $0.04 Male Gender over the Female Gender. with the Female Gender being under paid across Departments and Region.
+At Palmoria Group, the overall Gender Pay Gap is 3.55%, indicating that, on average, female employees earn 3.55% less than their male counterparts.
+This is a relatively small gap, but still significant and worth monitoring, especially considering Palmoria’s recent reputation concerns.
 
-### Recommendation
-Management should review the company salary structure in order to bridge the pay gap.
+### Gender Pay Gap by Department
+Most departments have a positive pay gap, meaning men earn more. However, Marketing and Engineering show a reverse gap, indicating women are paid more than men on average in those departments.
+
+Gender-based salary inequality exists more in HR, Business Development, and Services.
+Conversely, Engineering and Marketing departments exhibit a reverse pay gap.
+
+### Gender Pay Gap by Region
+Gender pay gaps are present in all regions but remain within the 3–4% range, suggesting regional policies or practices are relatively balanced.
+
+Regional gaps are modest and likely driven by departmental composition or role types rather than systemic issues.
 
 ### 4.0        Payment of $90,000 Minimum Salary to Employees
 From the analysis, it was discovered that most of the Employees are paid below the new stipilated Minimum salary of $90,000, which falls short of the Industrial Standard Regulation as regards to the New Minimum salary payment.
